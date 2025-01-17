@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms (Java & Python) Full-Stack Development (React, Spring Boot) Advanced Machine Learning (TensorFlow, PyTorch)**
 
-- 👯 I’m looking to collaborate on **👯 I’m looking to collaborate on Machine Learning and Full-Stack Development projects.**
+- 👯 I’m looking to collaborate on Machine Learning and Full-Stack Development projects.**
 
 - 💬 Ask me about **Web Development: React, Spring Boot, and JavaScript Machine Learning and AI: Building and deploying models Blockchain interfaces: Payment systems integration**
 
