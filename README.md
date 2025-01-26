@@ -8,8 +8,8 @@
 - 💬 Ask me about **Web Development: React, Spring Boot, and JavaScript Machine Learning and AI: Building and deploying models Blockchain interfaces: Payment systems integration**
 
 - 📫 How to reach me
-- **Email : vivekradheshyam158@gmail.com
-- Linkedin: https://www.linkedin.com/in/vivek-katre-393965217/**
+- **Email : vivekradheshyam158@gmail.com**
+- **Linkedin: https://www.linkedin.com/in/vivek-katre-393965217/**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1bgO0TZykNpsrf60n_nPYOKxGbXCo39gI/edit?usp=drive_link&ouid=110969948932532074968&rtpof=true&sd=true](https://docs.google.com/document/d/1bgO0TZykNpsrf60n_nPYOKxGbXCo39gI/edit?usp=drive_link&ouid=110969948932532074968&rtpof=true&sd=true)
 
