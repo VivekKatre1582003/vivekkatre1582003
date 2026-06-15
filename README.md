@@ -1,49 +1,121 @@
-<h1 align="center">Hi 👋, I'm Vivek Katre</h1>
-<h3 align="center">🌟 A passionate full-stack and data science enthusiast from India</h3>
+Hi 👋, I'm Vivek Katre
 
-- 🌱 I’m currently learning **Data Structures and Algorithms (Java & Python) Full-Stack Development (React, Spring Boot) Advanced Machine Learning (TensorFlow, PyTorch)**
+Data Engineer | ETL Testing | SQL | Python | AWS
 
-- 👯 I’m looking to collaborate on Machine Learning and Full-Stack Development projects.**
+I graduated with a B.Tech in Computer Science & Engineering (Data Science) from Shri Ramdeobaba College of Engineering and Management, Nagpur.
 
-- 💬 Ask me about **Web Development: React, Spring Boot, and JavaScript Machine Learning and AI: Building and deploying models Blockchain interfaces: Payment systems integration**
+My experience includes ETL validation, SQL-based data testing, data quality checks, and data warehousing concepts through my internship at Cognizant. I enjoy working with data, building data pipelines, and learning how large-scale data systems are designed and maintained.
 
-- 📫 How to reach me
-  - **Email : vivekradheshyam158@gmail.com**
-  - **Linkedin: https://www.linkedin.com/in/vivek-katre-393965217/**
+Currently, I am focused on Data Engineering, ETL Testing, and Analytics, with hands-on experience in Python, SQL, PostgreSQL, AWS, Apache Airflow, and data pipeline development.
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1bgO0TZykNpsrf60n_nPYOKxGbXCo39gI/edit?usp=drive_link&ouid=110969948932532074968&rtpof=true&sd=true](https://docs.google.com/document/d/1bgO0TZykNpsrf60n_nPYOKxGbXCo39gI/edit?usp=drive_link&ouid=110969948932532074968&rtpof=true&sd=true)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/vivek-katre-393965217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivek-katre-393965217" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/vivekradheshyam158/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vivekradheshyam158/" height="30" width="40" /></a>
-  <a href="https://www.geeksforgeeks.org/user/vivekradhezfpu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/vivekradhezfpu/" height="30" width="40" /></a>
-</p>
+🎓 Education
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flask_logo.svg" alt="flask" width="40" height="40"/> </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-</p>
+B.Tech in Computer Science & Engineering (Data Science)
+Shri Ramdeobaba College of Engineering and Management, Nagpur
+CGPA: 8.32/10
+
+---
+
+💼 Experience
+
+Programmer Analyst Intern (Data Specialization) | Cognizant
+
+- Validated ETL data pipelines to ensure accurate source-to-target data movement.
+- Wrote SQL queries involving joins, aggregations, and reconciliation checks.
+- Performed data quality validation covering accuracy, completeness, consistency, and uniqueness.
+- Worked with ETL workflows, transformation logic, and data warehousing concepts.
+
+Data Science Intern | Library on Wheels
+
+- Developed a content-based book recommendation system using TF-IDF and cosine similarity.
+- Built APIs using Flask and SQL.
+- Deployed APIs using AWS Lambda for serverless execution.
+
+---
+
+🚀 Projects
+
+Cloud Data Engineering Pipeline
+
+Tech Stack: Python, PySpark, AWS S3, PostgreSQL, Apache Airflow
+
+- Built an end-to-end ETL pipeline for data ingestion, transformation, and warehouse loading.
+- Developed transformation workflows and dimensional data models.
+- Automated scheduling and monitoring using Apache Airflow.
+- Implemented data quality validation checks.
+
+PredictWellness
+
+Tech Stack: Python, SQL, Machine Learning, Flask
+
+- Processed healthcare datasets using data cleaning and feature engineering techniques.
+- Built data pipelines for preparing structured patient data.
+- Developed disease prediction models with high accuracy.
+- Automated deployment using GitHub Actions and Render.
+
+---
+
+🛠️ Technical Skills
+
+Programming Languages
+
+"Python" "SQL" "Java"
+
+Data Engineering
+
+"ETL Pipelines" "Data Warehousing" "Data Modeling" "Data Integration" "Data Transformation" "Data Validation" "Data Quality Management"
+
+Databases
+
+"PostgreSQL" "MySQL" "SQL Query Optimization" "Joins" "Aggregations" "Window Functions"
+
+Cloud & Big Data
+
+"AWS S3" "AWS Lambda" "AWS IAM" "Apache Spark" "Apache Airflow" "Data Lakes"
+
+Machine Learning
+
+"Machine Learning" "Deep Learning" "Feature Engineering" "Model Deployment" "RAG" "LLM Concepts"
+
+Tools
+
+"Git" "GitHub" "Pandas" "NumPy" "Scikit-Learn" "CI/CD"
+
+---
+
+🏆 Certifications
+
+- AWS Certified Cloud Practitioner (2025)
+- IBM Data Science Professional Certificate
+
+---
+
+🏅 Achievements
+
+- Top 10 Team – Smart India Hackathon 2024
+- Participant – Flipkart Grid 6.0
+- Qualified Round 1 – Adobe GenSolve 2024
+
+---
+
+📫 Connect With Me
+
+📧 Email: vivekradheshyam158@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/vivek-katre-393965217
+
+💻 GitHub: https://github.com/VivekKatre
+
+---
+
+📊 GitHub Stats
+
+"Vivek's GitHub stats" (https://github-readme-stats.vercel.app/api?username=VivekKatre&show_icons=true)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=VivekKatre&layout=compact)
+
+---
+
+Thanks for visiting my profile!
